@@ -164,6 +164,18 @@ Before you begin:
 
 - Ensure you have Firebase set up with the necessary configurations. Please refer to the [Firebase Documentation](https://firebase.google.com/docs)
 
+### Dependencies
+
+- Firebase Core
+- Cloud Firestore Plugin for Flutter
+- Firebase Auth for Flutter
+- Cloud Storage for Flutter
+- Flutter SVG
+- Flutter intl Time Library (dart.dev)
+- Flutter File Picker
+- Flutter Staggered Grid View
+- Tabler Icons for Flutter
+- Flutter Provider
 
 ### Installation
 
@@ -187,7 +199,7 @@ cd Doggogram
 flutter pub get
 ```
 
-4. Run the Doggogram app on your emulator or connected device:
+4. Open the emulator, and then run the Doggogram app on your emulator or connected device:
 
 ```bash
 flutter run
